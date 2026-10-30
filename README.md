@@ -1,4 +1,4 @@
-# HotelPro - Hotel Management System 🏨
+# HotelPro - Hotel Management System 
 
 Hey there! This is **HotelPro**, a full-stack MERN project I built to manage hotel daily tasks and room bookings. It handles everything from users searching for rooms and booking them, to staff handling check-ins/check-outs, and an admin panel to see how much money the hotel made.
 
