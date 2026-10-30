@@ -40,6 +40,9 @@ Built this as part of my web development journey using MongoDB, Express, React, 
 ## Project Structure
 
 
+## Project Structure
+
+```
 hotelpro/
 ├── backend/
 │   ├── src/
@@ -61,10 +64,7 @@ hotelpro/
 │   │   └── main.jsx
 │   └── package.json
 └── README.md
-
-
-
----
+```
 
 ## How to Run This on Your PC
 
